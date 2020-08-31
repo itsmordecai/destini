@@ -4,7 +4,7 @@
 
 ## The Goal
 
-In this challenge, you will be building a choose your own adventure game like Bandersnatch. At some point one has to make choices of how the story goes.
+In this challenge, I will be building a choose your own adventure game like Bandersnatch. At some point one has to make choices of how the story goes.
 
 More instructions in the course.
 
