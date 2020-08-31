@@ -2,7 +2,7 @@
 
 # Destini 🤔
 
-## Our Goal
+## The Goal
 
 In this challenge, you will be building a choose your own adventure game like Bandersnatch. At some point one has to make choices of how the story goes.
 
