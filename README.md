@@ -8,8 +8,6 @@
 
 In this challenge, I will be building a choose your own adventure game like Bandersnatch. At some point one has to make choices of how the story goes.
 
-Further instructions available in the course.
-
 <br/>
 
 <!--
